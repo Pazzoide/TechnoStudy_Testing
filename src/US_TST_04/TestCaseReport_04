@@ -1,0 +1,29 @@
+TEST CASE REPORT
+Test Case ID: US_TST_04 - TC_TST_04
+
+Test Case Title:  Alt Menüden Kurslara Erişim Sağlayabilme
+
+Test Case Steps:
+ 1- Techno Study web sitesinin anasayfasına gidin.
+ 2- Anasayfada KURSLAR bölümünün görünür olduğunu doğrulayın
+ 3- Anasayfanın en altında bulunan Kurslar bölümündeki kurs isimlerine tıklayın.
+ 4- Açılan sayfada kursun adının ve detaylı bilgisinin görünür olduğunu doğrulayın.
+
+Expected Results:
+1- Anasayfada KURSLAR bölümü görülmelidir.
+2- Anasayfanın en altında bulunan menüden istenilen kurs tıklanabilmelidir.
+3- Seçilen kurs adı tıklandığında ilgili kurs sayfasına yönlendirilmeli , kurs adı ve detaylı bilgi görülmelidir.
+
+Actual Results:
+1- Techno Study web sitesinin anasayfasına gidildiğinde KURSLAR bölümü görüldü.
+2- Anasayfanın en altında bulunan menüdeki kurs isimlerinin tıklanabilir olduğu doğrulandı.
+3- Kurslara ait sayfalara sırasıyla gidildi ve kurs adları ve detaylı bilgilerin olduğu doğrulandı.
+
+Test Pass/Fail: Pass
+
+Comments:
+Beklenen sonuçlar ile gerçekleşen sonuçlar örtüştü. Techno Study anasayfasında oldugumuz KURSLAR
+bölümünün olduğu doğrulanarak anlaşıldı. Anasayfanın en altındaki Kurs isimlerinin tıklanabilir olduğu
+doğrulandı. Tıklanan kursa ait sayfaya yönlendirildiği kurs adı ve detaylı bilgi doğrulanarak test edildi.
+
+Tester : Zafer Cansız

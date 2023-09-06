@@ -1,0 +1,33 @@
+TEST CASE REPORT
+Test Case ID:
+    US_TST_03 - TC_TST_03
+
+
+Test Case Title : Anasayfada Başvur Butonu ile Kurs Başvurusu Yapabilme
+Explanation : Techno Study web sitesinin anasayfasında Başvur Butonuna tıklayarak başvuru yapabilmeyi test eder.
+Test Case Steps :
+	Techno Study web sitesinin ana sayfasına gidin.
+	Anasayfanın sağ üst köşesinde bulunan "Başvur" (Book a call) butonuna tıklayın.
+	Açılan başvuru formunu doldurun.
+	Başvuru formunun "Ad" ve "E-posta" alanlarına "test" ibaresini ekleyin.
+	"Gönder" (Submit) butonuna tıklayın.
+Expected Results:
+	"Başvur" butonu anasayfada belirgin bir şekilde görülmelidir.
+	"Başvur" butonuna tıklandığında, başvuru formunun olduğu bir sayfaya yönlendirilmelidir.
+	Başvuru formunda gerekli bilgiler kolayca doldurulabilir olmalıdır.
+	Başvuru formunda "Ad" ve "E-posta" alanlarına "test" ibaresi eklenmelidir.
+	"Gönder" butonuna tıklandığında, başvurunun iletilmesi ve bir onay mesajı görüntülenmesi gerekmektedir.
+Actual Results:
+	"Başvur" butonu anasayfada belirgin bir şekilde görüldü.
+	"Başvur" butonuna tıklandığında, başvuru formunun olduğu bir sayfaya yönlendirildim.
+	Başvuru formunda gerekli bilgiler kolayca doldurulabilir oldu.
+	Başvuru formunda "Ad" ve "E-posta" alanlarına "test" ibaresi eklendi.
+	"Gönder" butonuna tıklandığında, başvurum iletildi ve bir onay mesajı görüntülendi.
+Test Pass/Fail: Pass
+
+Comments:
+	Test, beklendiği gibi geçti. Anasayfanın sağ üst köşesinde bulunan "Başvur" (Book a call) butonunu vardı. Başvur butonuna
+	tıkladığımda, Başvuru formu açıldı. ilgili bölümleri doldurum "Başvur" a tıkladığımda recaptcha karşıma çıkıyor.
+	bunu aşamayı manuel olarak tıklayıp geçtikten sonra "Başvurunuz alınmıştır. Bilgilendirme Email i gönderilmiştir."
+	mesajı sizi karşılıyor ve böylece başvuru tamamlanmış oluyor.
+Testter : [RAMAZAN İNCE]

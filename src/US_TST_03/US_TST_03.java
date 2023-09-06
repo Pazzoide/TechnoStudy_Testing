@@ -79,7 +79,7 @@ public class US_TST_03 extends BaseDriver {
         WebElement rbtChckBox = driver.findElement(By.xpath("//span[@id='recaptcha-anchor']"));
         rbtChckBox.click();
 
-        //recaptcha tıklandıktan sonra çıkan resim manuel olarak geçilecek
+        //recaptcha tıklandıktan sonra çıkan  resim manuel olarak geçilecek
 
         Fonksiyon.bekle(20);
 

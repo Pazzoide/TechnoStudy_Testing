@@ -1,0 +1,35 @@
+        TEST CASE REPORT
+  Test Case ID:
+    US_TST_01 - TC_TST_21
+
+    Test Case Title:
+    Kursları için "Detaylı Bilgi" kısmını görüntüleme
+
+    Test Case Steps:
+    -Techno Study web sitesinin ana sayfasına gidin.
+    -https://techno.study/tr/ adrese ulaşın.
+    -Techno Study web sitesinin ana sayfası açılmalıdır.
+
+    Expected Results:
+    -"Kendi Kursunu Seç" bölümünde, her kursun altında "Detaylı Bilgi"
+     veya "More Info" gibi bir buton veya bağlantı görünmelidir.
+    -"Detaylı Bilgi" butonuna tıkladığımda, ilgili kursun ayrıntılı bilgi ve
+    içeriklerinin bulunduğu kurs sayfasına yönlendirilmelidir.
+
+    Actual Results:
+    -Anasayfada "Kendi Kursunu Seç bölümü" görüldü.
+    -istenilen kurs bölümünden "Detaylı Bilgi" kısmına tıklandı.
+    -ilgili kursun ayrıntılı bilgi ve kurs içerikleri görüntülendi.
+
+    Test Pass/Fail: Pass
+
+    Comments:
+    Test, beklendiği gibi geçti. Ana sayfadan istenilen kursu seç kısmından
+    "Detaylı Bilgi" kısmına tıklandığımda, istenilen kurs ile ilgili detaylı bilgi
+    sayfasına kolayca erişim sağladım ve testimi Pass şeklinde tamamladım.
+
+    Tester: Engin Elaldı
+
+
+
+

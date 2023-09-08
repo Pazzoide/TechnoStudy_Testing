@@ -27,7 +27,7 @@ Test Pass/Fail: Pass
 
 Comments:
 	Test, beklendiği gibi geçti. Anasayfanın sağ üst köşesinde bulunan "Başvur" (Book a call) butonunu vardı. Başvur butonuna
-	tıkladığımda, Başvuru formu açıldı. ilgili bölümleri doldurum "Başvur" a tıkladığımda recaptcha karşıma çıkıyor.
-	bunu aşamayı manuel olarak tıklayıp geçtikten sonra "Başvurunuz alınmıştır. Bilgilendirme Email i gönderilmiştir."
+	tıkladığımda, Başvuru formu açıldı. ilgili bölümleri doldurdum "Başvur" a tıkladığımda recaptcha karşıma çıkıyor.
+	bu aşamayı manuel olarak tıklayıp geçtikten sonra "Başvurunuz alınmıştır. Bilgilendirme Email i gönderilmiştir."
 	mesajı sizi karşılıyor ve böylece başvuru tamamlanmış oluyor.
-Testter : [RAMAZAN İNCE]
+Testter : [ RAMAZAN İNCE ]
